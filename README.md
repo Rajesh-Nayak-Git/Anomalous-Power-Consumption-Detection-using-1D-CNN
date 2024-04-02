@@ -1,0 +1,1 @@
+In this work I have used 1D CNN model to perform anomalous power consumption detection. Numerical micro-moment labeled anomalous power consumption dataset is used in the experiments. The aggregated dataset is divided into appliance-wise dataset. 1D instances of the dataset are supplied to 1D CNN model with Conv1D layer.
